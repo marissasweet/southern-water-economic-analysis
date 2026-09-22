@@ -21,30 +21,25 @@ This project explores several business questions, including:
 - Excel formulas and functions
 - Pivot tables
 - Data visualization
-- Variance analysis
+- Trend analysis
+- Economic analysis
 - What-if analysis
 
 ## Analysis
 
-The workbook includes several stages of analysis, including:
+The portfolio workbook is organized around three main areas of analysis:
 
-### Market Analysis
-Examined historical market pricing and demand patterns to evaluate market behavior and identify economic trends.
+### Economic Market Analysis
 
-### Production Cost Analysis
-Compared operational and production costs across desalination facilities to evaluate relative cost efficiency.
+Examined historical water-market price and demand behavior to identify changes in market conditions and relationships between pricing and water demand.
 
-### Profitability Analysis
-Analyzed financial performance and operating results to better understand differences across facilities.
+### Economic Cost Analysis
+
+Compared production costs across the Kootha, Surjek, and Jutik desalination facilities and examined how production volume relates to cost per megaliter.
 
 ### What-If Analysis
-Used historical market data to evaluate potential maintenance timing and support business-planning decisions.
 
-## Project Highlights
-
-### Production Cost Trends
-
-The analysis compared aggregate cost to produce with the performance of the Kootha, Surjek, and Jutik desalination facilities across the observed period. The visualization highlights substantial variation between facilities, including periods of elevated production cost that warranted deeper investigation.
+Evaluated quarterly market and revenue scenarios to support maintenance-planning decisions and identify periods with lower potential revenue impact.
 
 ![Production Cost Trends](images/cost-to-produce-trend.png)
 
@@ -71,10 +66,23 @@ A what-if analysis compared quarterly revenue outcomes to support maintenance-pl
 - Scenario analysis
 - Translating analytical findings into business recommendations
 
+- ## Workbook Structure
+
+The portfolio workbook contains:
+
+- **Portfolio Overview** - Project objective, tools, analysis areas, and key highlights
+- **Economic Market Analysis** - Historical water-market pricing and demand analysis
+- **Economic Cost Analysis** - Facility-level cost and production analysis
+- **What-If Analysis** - Scenario analysis supporting maintenance-planning decisions
+- **Supporting Pivot Tables** - Pivot-based summaries used throughout the analysis
+
 ## Project Files
 
-A portfolio version of the Excel workbook and selected analysis visuals will be included in this repository.
+- [Download the Excel workbook](Southern-Water-Economic-Analysis.xlsx)
+- `images/` - Selected project visuals used throughout this README
+
+The portfolio workbook includes a cleaned overview page, completed analysis worksheets, and supporting pivot tables used to summarize and explore the underlying data.
 
 ## About This Project
 
-This project was completed as part of my Data Analytics Career Program coursework and has been adapted for portfolio presentation.
+This project was completed as part of my Data Analytics Career Program coursework and was adapted into a portfolio-ready workbook to highlight my Excel analysis, visualization, pivot-table, and business problem-solving skills.

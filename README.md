@@ -40,6 +40,26 @@ Analyzed financial performance and operating results to better understand differ
 ### What-If Analysis
 Used historical market data to evaluate potential maintenance timing and support business-planning decisions.
 
+## Project Highlights
+
+### Production Cost Trends
+
+The analysis compared aggregate cost to produce with the performance of the Kootha, Surjek, and Jutik desalination facilities across the observed period. The visualization highlights substantial variation between facilities, including periods of elevated production cost that warranted deeper investigation.
+
+![Production Cost Trends](images/cost-to-produce-trend.png)
+
+### Production Volume and Cost
+
+Scatter plots were used to examine the relationship between total water production volume and cost per megaliter for each desalination facility. The trend lines provide a visual comparison of how production scale relates to cost behavior across Kootha, Surjek, and Jutik.
+
+![Production Volume and Cost](images/cost-vs-volume.png)
+
+### Maintenance What-If Analysis
+
+A what-if analysis compared quarterly revenue outcomes to support maintenance-planning decisions. Among the scenarios evaluated, Q4 showed the highest projected revenue at approximately $157.7 million, while Q1 showed the lowest at approximately $141.7 million.
+
+![Maintenance What-If Analysis](images/maintenance-what-if-analysis.png)
+
 ## Skills Demonstrated
 
 - Data cleaning and organization
